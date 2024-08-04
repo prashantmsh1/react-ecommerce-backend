@@ -17,6 +17,7 @@
     "@strapi/admin": "^4.22.1",
     "@strapi/plugin-i18n": "^4.22.1",
     "@strapi/plugin-users-permissions": "^4.22.1",
+    "@strapi/provider-upload-cloudinary": "^4.25.6",
     "@strapi/strapi": "^4.22.1",
     "better-sqlite3": "8.0.1",
     "pg": "^8.7.1",
